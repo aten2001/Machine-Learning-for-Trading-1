@@ -1,11 +1,10 @@
-# Machine-Learning-for-Trading
-Machine Learning for Trading CS 7646
+# Copyright 2018, Georgia Tech Research Corporation    
+# Atlanta, Georgia 30332-0415     
+# All Rights Reserved  
 
-### Projects
-* Project 1: Martingale
-* Project 2: Portfolio Optimization
-* Project 3: Random Learners (Decision Trees, Random Trees, and Bootstrap Aggregating Learners)
-* Project 4: Defeat Learners
-* Project 5: Market Simulator
-* Project 6: Manual Trading Strategy
-* Project 7: Q-Learning Trader
+# ML4T_2019 Fall 
+Course website: http://quantsoftware.gatech.edu/CS7646_Fall_2019
+
+Information on using the autograder on buffet0x servers: http://quantsoftware.gatech.edu/ML4T_Software_Setup
+
+

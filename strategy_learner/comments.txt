@@ -1,0 +1,17 @@
+<pre>--- Summary ---
+Tests passed: 3 out of 4
+
+--- Details ---
+Test #0: passed 
+Test #1: failed 
+Test case description: AAPL
+Traceback:
+  File "grade_strategy_learner.py", line 225, in test_strategy
+    if not((in_trades_1 == in_trades_2).all()[0]):
+  File "ops.py", line 2096, in f
+    raise ValueError('Can only compare identically-labeled '
+ValueError: Can only compare identically-labeled DataFrame objects
+
+Test #2: passed 
+Test #3: passed 
+</pre>
